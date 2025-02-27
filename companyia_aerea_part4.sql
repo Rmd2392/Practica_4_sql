@@ -1,10 +1,10 @@
 /* *****************************************************
   INSTITUT TIC de Barcelona
-    CFGS DAW 1A
+    CFGS _____________________________
     Mòdul: 0484 Bases de dades. 
     AUTORS: Pau Bosch Pérez and Ricardo Martín Díaz
-    DATA: 27/02/2025
-/****************************************************** */
+    DATA: ________________
+****************************************************** */
 
 -- Pregunta 1
 
@@ -15,7 +15,7 @@ JOIN aeroports a ON ao.id_ciutat = a.id
 WHERE v.durada < 40
   AND MONTH(v.data) = 2 AND YEAR(v.data) = 2024
   AND v.estat = 'delayed'
-ORDER BY a.ciutat, v.dataa;
+ORDER BY a.ciutat, v.data;
 
 -- Pregunta 2
 select 'No ho sé';
