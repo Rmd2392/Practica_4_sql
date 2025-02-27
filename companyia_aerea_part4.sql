@@ -2,7 +2,7 @@
   INSTITUT TIC de Barcelona
     CFGS _____________________________
     Mòdul: 0484 Bases de dades. 
-    AUTORS: _______________________________
+    AUTORS: Pau Bosch Pérez and Ricardo Martín Díaz
     DATA: ________________
 ****************************************************** */
 
