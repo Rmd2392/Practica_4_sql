@@ -15,7 +15,7 @@ JOIN aeroports a ON ao.id_ciutat = a.id
 WHERE v.durada < 40
   AND MONTH(v.data) = 2 AND YEAR(v.data) = 2024
   AND v.estat = 'delayed'
-ORDER BY a.ciutat, v.data;
+ORDER BY a.ciutat, v.dataa;
 
 -- Pregunta 2
 select 'No ho sé';
