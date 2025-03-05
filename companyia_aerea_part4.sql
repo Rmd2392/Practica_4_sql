@@ -1,9 +1,9 @@
 /* *****************************************************
   INSTITUT TIC de Barcelona
-    CFGS _____________________________
+    CFGS DAW 1A
     Mòdul: 0484 Bases de dades. 
     AUTORS: Pau Bosch Pérez and Ricardo Martín Díaz
-    DATA: ________________
+    DATA: 27/02/2025
 ****************************************************** */
 
 -- Pregunta 1
