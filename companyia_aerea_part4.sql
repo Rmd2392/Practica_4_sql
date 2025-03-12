@@ -7,10 +7,6 @@
 ****************************************************** */
 
 -- Pregunta 1
-<<<<<<< HEAD
-=======
-
->>>>>>> bc8a8d06de411556b209d627401b1aba1724f19f
 select
   aeroport.ciutat,
   aeroport.nom as aeroport,
